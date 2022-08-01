@@ -29,4 +29,4 @@ client.sendError = (msg, content) => {
     return msg.edit({ content: `🧐 - **${content}**`, components: [] });
 }
 
-client.login("OTkzNDgyODY3MTM5MTQ5OTU0.Gqu42a.dCO9jvv8TdOLly_q1bM197E1ZuM5lzkeMtZWgc");
+client.login("BOT TOKENİNİZİ GİRİN");
